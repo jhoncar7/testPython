@@ -1,0 +1,15 @@
+jinja2
+
+pip install pdfkit
+
+libreria externa
+apt-get install wkhtmltopdf
+
+
+----------------------
+pip install aspose-words
+
+---
+Andar la api dentro del entorno virtual
+
+flask run
